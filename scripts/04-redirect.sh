@@ -9,7 +9,7 @@ echo "1. Configurando redirección dinámica HTTP a HTTPS..."
 echo "======================================================="
 # Esto reemplaza el archivo anterior con una regla que respeta el dominio (ej. trapitos.local)
 cat <<EOF > /etc/httpd/conf.d/redirect_http.conf
-<VirtualHost _default_:80>
+<VirtualHost _default_:443>
     RewriteEngine On
     RewriteRule ^(.*)$ https://%{HTTP_HOST}\$1 [R=301,L]
 </VirtualHost>
