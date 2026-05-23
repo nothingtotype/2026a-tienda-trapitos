@@ -38,7 +38,7 @@ Una vez que la máquina virtual con Rocky Linux esté lista, sigue estos pasos p
 Descarga los archivos del proyecto en tu servidor (puedes hacerlo en tu directorio de usuario o en `/opt`):
 
 ```bash
-git clone [https://github.com/tu-usuario/2026a-tienda-trapitos.git](https://github.com/tu-usuario/2026a-tienda-trapitos.git)
+git clone https://github.com/tu-usuario/2026a-tienda-trapitos.git
 cd 2026a-tienda-trapitos
 
 ```
