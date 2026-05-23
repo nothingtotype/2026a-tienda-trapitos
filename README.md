@@ -75,7 +75,12 @@ sudo ./scripts/04-redirect.sh
 
 ```
 
-### 4. Carga de Inventario
+### 6. Instalacion de los plugins necesarios
+
+<img width="1711" height="821" alt="image" src="https://github.com/user-attachments/assets/f444430c-2137-488d-a838-58194d150fe3" />
+
+
+### 5. Carga de Inventario
 
 Una vez que el servidor web y el sistema POS estén en línea y asegurados por HTTPS, utiliza la interfaz del sistema para importar el archivo ubicado en:
 `inventario/productos_trapitos.csv`
