@@ -2,6 +2,9 @@
 
 Proyecto escolar para el desarrollo de un sistema POS (Point of Sale) para el negocio local "Trapitos". 
 
+<img width="1905" height="2035" alt="image" src="https://github.com/user-attachments/assets/916d5b27-28a3-4787-8678-7ffd065f0b62" />
+
+
 Este repositorio contiene los scripts de infraestructura y la configuración necesaria para desplegar el servidor web seguro y gestionar la carga inicial del inventario.
 
 ---
@@ -77,7 +80,7 @@ sudo ./scripts/04-redirect.sh
 
 ### 6. Instalacion de los plugins necesarios
 
-<img width="1711" height="821" alt="image" src="https://github.com/user-attachments/assets/f444430c-2137-488d-a838-58194d150fe3" />
+<img width="1695" height="814" alt="HKrhN84c3y" src="https://github.com/user-attachments/assets/26f0402d-b023-4717-bd61-a0863d2e4e6a" />
 
 
 ### 5. Carga de Inventario
